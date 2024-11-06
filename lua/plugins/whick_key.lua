@@ -24,7 +24,7 @@ return {
          {'<leader>r',  desc="ranger"},
     })
     wk.add({
-        {'<leader>t', desc="toggleterm"},
+        {'<leader>tt', desc="toggleterm"},
     })
   end
 }
